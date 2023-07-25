@@ -24,7 +24,7 @@ outcome==1.2.0
 pycparser==2.21
 pyOpenSSL==23.2.0
 PySocks==1.7.1
-python-telegram-bot==13.7
+python-telegram-bot==20.4
 pytz==2023.3
 requests==2.31.0
 selenium==4.0.0b4
