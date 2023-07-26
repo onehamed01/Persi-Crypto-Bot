@@ -14,7 +14,7 @@
 </div>
 
 ## About Version 1.1
-I have created a Python Telegram bot that displays real-time prices of various cryptocurrencies. This is version 1.1 of the initial configuration. Currently, the bot only provides the momentary price of Tether (USDT) in Iranian Rials (IRR).
+I have created a Python Telegram bot that displays real-time prices of various cryptocurrencies. This is **version 1.1** of the initial configuration. Currently, the bot only provides the momentary price of Tether (USDT) in Iranian Rials (IRR).
 ## libraries
 
 ``` pip install -r requirements.txt```
